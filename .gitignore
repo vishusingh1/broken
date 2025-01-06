@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.dev
+
+
+# ignore file ignore.ts at any level
+**/ignore.ts
